@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\cdac\source\repos\ncr-work\assignment 4\reversestring.c\reversestring.c\source.c(20): warning C4013: 'getch' undefined; assuming extern returning int
+  reversestring.c.vcxproj -> C:\Users\cdac\Source\Repos\NCR-work\assignment 4\reversestring.c\Debug\reversestring.c.exe
+  reversestring.c.vcxproj -> C:\Users\cdac\Source\Repos\NCR-work\assignment 4\reversestring.c\Debug\reversestring.c.pdb (Full PDB)
