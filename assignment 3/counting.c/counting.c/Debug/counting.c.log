@@ -1,0 +1,4 @@
+﻿  counting.c
+c:\users\cdac\source\repos\ncr-work\assignment 3\counting.c\counting.c\counting.c(19): warning C4013: 'getch' undefined; assuming extern returning int
+  counting.c.vcxproj -> C:\Users\cdac\Source\Repos\NCR-work\assignment 3\counting.c\Debug\counting.c.exe
+  counting.c.vcxproj -> C:\Users\cdac\Source\Repos\NCR-work\assignment 3\counting.c\Debug\counting.c.pdb (Full PDB)

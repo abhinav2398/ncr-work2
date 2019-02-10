@@ -1,0 +1,4 @@
+﻿  subarraysum.c
+c:\users\cdac\source\repos\ncr-work\assignment 3\subarraysum.c\subarraysum.c\subarraysum.c(33): warning C4013: 'getch' undefined; assuming extern returning int
+  subarraysum.c.vcxproj -> C:\Users\cdac\Source\Repos\NCR-work\assignment 3\subarraysum.c\Debug\subarraysum.c.exe
+  subarraysum.c.vcxproj -> C:\Users\cdac\Source\Repos\NCR-work\assignment 3\subarraysum.c\Debug\subarraysum.c.pdb (Full PDB)
