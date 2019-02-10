@@ -1,0 +1,4 @@
+﻿  binarytohexa.c
+c:\users\cdac\source\repos\ncr-work\assignment2\binarytohexa.c\binarytohexa.c\binarytohexa.c(37): warning C4013: 'getch' undefined; assuming extern returning int
+  binarytohexa.c.vcxproj -> C:\Users\cdac\Source\Repos\NCR-work\assignment2\binarytohexa.c\Debug\binarytohexa.c.exe
+  binarytohexa.c.vcxproj -> C:\Users\cdac\Source\Repos\NCR-work\assignment2\binarytohexa.c\Debug\binarytohexa.c.pdb (Full PDB)
