@@ -1,0 +1,6 @@
+﻿  assignment (1-2).cpp
+c:\users\cdac\desktop\abhinav\project3\project3\assignment (1-2).cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cdac\desktop\abhinav\project3\project3\assignment (1-2).cpp(24): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\cdac\desktop\abhinav\project3\project3\assignment (1-2).cpp(26): warning C4804: '<': unsafe use of type 'bool' in operation
+  Project3.vcxproj -> C:\Users\cdac\Desktop\abhinav\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\cdac\Desktop\abhinav\Project3\Debug\Project3.pdb (Partial PDB)
