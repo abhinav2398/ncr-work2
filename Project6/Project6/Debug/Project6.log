@@ -1,0 +1,5 @@
+﻿  assignment(1-4).cpp
+c:\users\cdac\desktop\ncrwork\assignments\project6\project6\assignment(1-4).cpp(21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\cdac\desktop\ncrwork\assignments\project6\project6\assignment(1-4).cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project6.vcxproj -> C:\Users\cdac\Desktop\NCRWork\Assignments\Project6\Debug\Project6.exe
+  Project6.vcxproj -> C:\Users\cdac\Desktop\NCRWork\Assignments\Project6\Debug\Project6.pdb (Partial PDB)
