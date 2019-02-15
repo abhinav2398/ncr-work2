@@ -1,0 +1,7 @@
+﻿  assignment(1-5).cpp
+c:\users\cdac\source\repos\vineeth1402\ncr-work\files\assignment(1-5)\assignment(1-5)\assignment(1-5).cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cdac\source\repos\vineeth1402\ncr-work\files\assignment(1-5)\assignment(1-5)\assignment(1-5).cpp(54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cdac\source\repos\vineeth1402\ncr-work\files\assignment(1-5)\assignment(1-5)\assignment(1-5).cpp(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\cdac\source\repos\vineeth1402\ncr-work\files\assignment(1-5)\assignment(1-5)\assignment(1-5).cpp(72): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  assignment(1-5).vcxproj -> C:\Users\cdac\Source\Repos\vineeth1402\NCR-work\files\assignment(1-5)\Debug\assignment(1-5).exe
+  assignment(1-5).vcxproj -> C:\Users\cdac\Source\Repos\vineeth1402\NCR-work\files\assignment(1-5)\Debug\assignment(1-5).pdb (Partial PDB)
