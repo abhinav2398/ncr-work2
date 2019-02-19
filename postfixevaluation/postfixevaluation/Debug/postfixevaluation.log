@@ -1,0 +1,4 @@
+﻿  postfix evaluation.cpp
+c:\users\cdac\desktop\new folder\postfixevaluation\postfixevaluation\postfix evaluation.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  postfixevaluation.vcxproj -> C:\Users\cdac\Desktop\New folder\postfixevaluation\Debug\postfixevaluation.exe
+  postfixevaluation.vcxproj -> C:\Users\cdac\Desktop\New folder\postfixevaluation\Debug\postfixevaluation.pdb (Partial PDB)
