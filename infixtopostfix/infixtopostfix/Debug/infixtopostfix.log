@@ -1,0 +1,5 @@
+﻿  infixtopostfix.cpp
+c:\users\cdac\desktop\new folder\infixtopostfix\infixtopostfix\infixtopostfix.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdac\desktop\new folder\infixtopostfix\infixtopostfix\infixtopostfix.cpp(103): warning C4101: 'result': unreferenced local variable
+  infixtopostfix.vcxproj -> C:\Users\cdac\Desktop\New folder\infixtopostfix\Debug\infixtopostfix.exe
+  infixtopostfix.vcxproj -> C:\Users\cdac\Desktop\New folder\infixtopostfix\Debug\infixtopostfix.pdb (Partial PDB)
